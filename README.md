@@ -12,7 +12,7 @@ Privacy URL: `https://scott4game.github.io/YaoPilot-site/privacy.html`.
 
 Support URL: `https://scott4game.github.io/YaoPilot-site/`.
 
-The GitHub account is scott4game; alpha2z remains the developer public attribution. Deployment status must be verified on GitHub Pages before using these URLs.
+The GitHub account is scott4game; alpha2z remains the developer public attribution. GitHub Pages enabled from `main` / `(root)` on 2026-10-06 with enforced HTTPS. Anonymous HTTPS checks returned HTTP 200 for all six localized pages and CSS; published content matched local files. No login is required to read these pages.
 
 No app source, device logs, credentials, forms, analytics, or external fonts belong in this repository. GitHub hosting may log visitor IP addresses for security as explained in the policy.
 
